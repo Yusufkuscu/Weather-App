@@ -2,6 +2,8 @@
 
 Bu proje HTML ve CSS kullanarak oluşturulan basit bir hava durumu uygulamasını içermektedir.
 
+API Anahtarını Buradan Kullandım -> [Link](https://openweathermap.org)
+
 ## Nasıl Çalıştırılır
 
 [Kullanmak için tıklayın](https://yusufkuscu.github.io/Weather-App/)
