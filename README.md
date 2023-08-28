@@ -2,11 +2,6 @@
 
 Bu proje HTML ve CSS kullanarak oluşturulan basit bir hava durumu uygulamasını içermektedir.
 
-## Kullanılan Teknolojiler
-
-- HTML
-- CSS
-  
 ## Nasıl Çalıştırılır
 
 [Kullanmak için tıklayın](https://yusufkuscu.github.io/Weather-App/)
