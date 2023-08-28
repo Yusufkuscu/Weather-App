@@ -4,7 +4,7 @@ Bu proje HTML ve CSS kullanarak oluşturulan basit bir hava durumu uygulamasın�
 
 ## Nasıl Çalıştırılır
 
-[Kullanmak için tıklayın](https://yusufkuscu.github.io/Weather-App/)
+[Kullanmak için tıklayın]([https://yusufkuscu.github.io/Weather-App/](https://yusufkuscu.github.io/Weather-App/))
 
 
 ![1](https://github.com/Yusufkuscu/Weather-App/assets/99915079/5520d1c0-9747-400a-bd18-6c53a126fbec)
